@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>bird_13.jpeg</filename>
+	<path>d:\Program Files\Diplomski\Project\Data\Bird\bird_13.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>20</ymin>
+			<xmax>524</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>heli_15.jpeg</filename>
+	<path>d:\Program Files\Diplomski\Project\Data\Heli\heli_15.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>352</ymin>
+			<xmax>1151</xmax>
+			<ymax>687</ymax>
+		</bndbox>
+	</object>
+</annotation>

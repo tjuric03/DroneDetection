@@ -1,3 +1,10 @@
+# Repo files
+Data/Train
+Data/Test
+ssd/models
+ssd/training/test.record
+ssd/training/train.record
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

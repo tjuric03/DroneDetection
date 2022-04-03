@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>bird_video_16_60.jpeg</filename>
+	<path>d:\Program Files\Diplomski\Project\Data\Bird\bird_video_16_60.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2238</xmin>
+			<ymin>277</ymin>
+			<xmax>2321</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2013</xmin>
+			<ymin>320</ymin>
+			<xmax>2118</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

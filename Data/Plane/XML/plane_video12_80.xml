@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>plane_video12_80.jpeg</filename>
+	<path>d:\Program Files\Diplomski\Project\Data\Plane\plane_video12_80.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>161</ymin>
+			<xmax>325</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

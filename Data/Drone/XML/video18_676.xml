@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>video18_676.jpeg</filename>
+	<path>d:\Program Files\Diplomski\Project\Data\Drone\video18_676.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>245</ymin>
+			<xmax>107</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>679</xmin>
+			<ymin>344</ymin>
+			<xmax>784</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,16 @@
+item { 
+	name:'drone'
+	id:1
+}
+item { 
+	name:'bird'
+	id:2
+}
+item { 
+	name:'plane'
+	id:3
+}
+item { 
+	name:'heli'
+	id:4
+}

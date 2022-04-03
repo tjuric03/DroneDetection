@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>heli_video4_220.jpeg</filename>
+	<path>d:\Program Files\Diplomski\Project\Data\Heli\heli_video4_220.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>138</ymin>
+			<xmax>641</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

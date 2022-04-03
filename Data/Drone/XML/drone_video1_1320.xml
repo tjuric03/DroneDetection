@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>drone_video1_1320.jpeg</filename>
+	<path>d:\Program Files\Diplomski\Project\Data\Drone\drone_video1_1320.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>854</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>229</ymin>
+			<xmax>293</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

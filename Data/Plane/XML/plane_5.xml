@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>plane_5.jpeg</filename>
+	<path>d:\Program Files\Diplomski\Project\Data\Plane\plane_5.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1066</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>117</ymin>
+			<xmax>1381</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>748</ymin>
+			<xmax>1102</xmax>
+			<ymax>1013</ymax>
+		</bndbox>
+	</object>
+</annotation>
