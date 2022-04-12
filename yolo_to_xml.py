@@ -138,3 +138,4 @@ if __name__ == "__main__":
     yolo_to_xml("./Data\Heli", "./Data\Heli/classes.txt")
     yolo_to_xml("./Data\Bird", "./Data\Bird/classes.txt")
     yolo_to_xml("./Data\Plane", "./Data\Plane/classes.txt")
+    yolo_to_xml("./Data\Insect", "./Data\Insect/classes.txt")

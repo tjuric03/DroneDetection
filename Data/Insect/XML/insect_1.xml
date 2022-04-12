@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>insect_1.jpeg</filename>
+	<path>d:\Program Files\Diplomski\Project\Data\Insect\insect_1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>671</width>
+		<height>884</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>39</ymin>
+			<xmax>565</xmax>
+			<ymax>670</ymax>
+		</bndbox>
+	</object>
+</annotation>
