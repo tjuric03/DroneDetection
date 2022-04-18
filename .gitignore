@@ -4,6 +4,11 @@ Data/Test
 ssd/models
 ssd/training/test.record
 ssd/training/train.record
+ssd/exported-models
+rcnn/models
+rcnn/training/test.record
+rcnn/training/train.record
+rcnn/exported-models
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
