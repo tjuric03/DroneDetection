@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>model2_smaller_0060.jpg</filename>
+	<path>d:\Program Files\Diplomski\Project\DataSynthetic\Drone\model2_smaller_0060.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>535</xmin>
+			<ymin>225</ymin>
+			<xmax>626</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

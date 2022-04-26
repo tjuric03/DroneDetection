@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>insect1_smaller_0064.jpg</filename>
+	<path>d:\Program Files\Diplomski\Project\DataSynthetic\Insect\insect1_smaller_0064.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>227</ymin>
+			<xmax>603</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

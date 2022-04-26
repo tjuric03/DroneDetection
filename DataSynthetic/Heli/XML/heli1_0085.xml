@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>heli1_0085.jpg</filename>
+	<path>d:\Program Files\Diplomski\Project\DataSynthetic\Heli\heli1_0085.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>178</ymin>
+			<xmax>663</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>plane2_0080.jpg</filename>
+	<path>d:\Program Files\Diplomski\Project\DataSynthetic\Plane\plane2_0080.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>183</ymin>
+			<xmax>668</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>bird2_0070.jpg</filename>
+	<path>d:\Program Files\Diplomski\Project\DataSynthetic\Bird\bird2_0070.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>510</xmin>
+			<ymin>150</ymin>
+			<xmax>582</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>
