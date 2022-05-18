@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>drone_237.jpeg</filename>
+	<path>d:\Program Files\Diplomski\Project\Data\Drone\drone_237.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>307</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>15</ymin>
+			<xmax>179</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>118</ymin>
+			<xmax>253</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>
