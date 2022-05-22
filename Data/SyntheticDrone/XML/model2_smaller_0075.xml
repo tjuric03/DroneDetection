@@ -1,7 +1,7 @@
 <annotation>
 	<folder>XML</folder>
 	<filename>model2_smaller_0075.jpg</filename>
-	<path>d:\Program Files\Diplomski\Project\DataSynthetic\Drone\model2_smaller_0075.jpg</path>
+	<path>d:\Program Files\Diplomski\Project\Data\SyntheticDrone\model2_smaller_0075.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>549</xmin>
-			<ymin>198</ymin>
-			<xmax>616</xmax>
-			<ymax>278</ymax>
+			<xmin>538</xmin>
+			<ymin>182</ymin>
+			<xmax>665</xmax>
+			<ymax>256</ymax>
 		</bndbox>
 	</object>
 </annotation>

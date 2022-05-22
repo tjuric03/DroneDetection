@@ -1,7 +1,7 @@
 <annotation>
 	<folder>XML</folder>
 	<filename>heli1_0047.jpg</filename>
-	<path>d:\Program Files\Diplomski\Project\DataSynthetic\Heli\heli1_0047.jpg</path>
+	<path>d:\Program Files\Diplomski\Project\Data\SyntheticHeli\heli1_0047.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>503</xmin>
-			<ymin>96</ymin>
-			<xmax>679</xmax>
-			<ymax>277</ymax>
+			<xmin>431</xmin>
+			<ymin>81</ymin>
+			<xmax>654</xmax>
+			<ymax>327</ymax>
 		</bndbox>
 	</object>
 </annotation>

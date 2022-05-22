@@ -1,7 +1,7 @@
 <annotation>
 	<folder>XML</folder>
 	<filename>bird1_smaller_0049.jpg</filename>
-	<path>d:\Program Files\Diplomski\Project\DataSynthetic\Bird\bird1_smaller_0049.jpg</path>
+	<path>d:\Program Files\Diplomski\Project\Data\SyntheticBird\bird1_smaller_0049.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>546</xmin>
-			<ymin>218</ymin>
-			<xmax>579</xmax>
+			<xmin>543</xmin>
+			<ymin>215</ymin>
+			<xmax>582</xmax>
 			<ymax>246</ymax>
 		</bndbox>
 	</object>
